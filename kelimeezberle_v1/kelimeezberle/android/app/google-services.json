@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "15625829595",
+    "project_id": "queazy-73905",
+    "storage_bucket": "queazy-73905.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15625829595:android:8f2e1ba7b8b7876915a0fe",
+        "android_client_info": {
+          "package_name": "com.kelimeezberlemece.kelimeezberle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15625829595-uiqd0c7c7sfrqbvagvgru933759subss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kelimeezberlemece.kelimeezberle",
+            "certificate_hash": "fd274012bf11a133e1e6ff19cec2cd14becfbc55"
+          }
+        },
+        {
+          "client_id": "15625829595-gb716baf2vfbhlpf3stl6q91o92ork67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGX3m_CvtIFvbWxXWe_dWnv9UpFdT8wHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15625829595-gb716baf2vfbhlpf3stl6q91o92ork67.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "15625829595-jdlv1ojqli2ggsi0mok177okpvh0clt6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kelimeezberlemece.kelimeezberle"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
