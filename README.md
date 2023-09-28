@@ -1,2 +1,2 @@
 # IngilizceKelimeEzberlemeProgrami
-Flutter SDK ve Dar diliyle proglanmış mobil uygulama.
+Flutter SDK ve Dart diliyle proglanmış mobil uygulama.
